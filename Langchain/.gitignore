@@ -2,8 +2,6 @@ WebsiteChat
 .env
 .env
 
-Website_Chat_APP
-app.py
 
 Langchain/.env
 
