@@ -13,3 +13,10 @@ chromadb
 sentence_transformers
 langchain_huggingface
 faiss-cpu
+fastapi>=0.104.0,<1.0.0
+langchain_groq
+uvicorn[standard]
+langserve>=0.0.30
+pydantic>=2.0.0,<3.0.0
+starlette
+sse_starlette
